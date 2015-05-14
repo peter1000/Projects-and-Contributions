@@ -27,6 +27,8 @@ Just to keep track of some of my coding projects and contributions:
 
   * https://github.com/JuliaLang/julia/issues/11023
 
+* Improvement of the julia v.0.4 mv function [mv](https://github.com/JuliaLang/julia/commit/c2a28eeb97dd2d8d918c30ff7da9e9d07685ba6c)
+
 ---
 
 ##### [MichaelHatherly/Lexicon.jl](https://github.com/MichaelHatherly/Lexicon.jl)
