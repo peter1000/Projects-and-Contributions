@@ -4,6 +4,28 @@ Just to keep track of some of my coding projects and contributions:
 
 ### Contributions
 
+---
+#### Shell Script Related
+
+---
+
+##### [NuTyX/cards](https://github.com/NuTyX/cards)
+
+**cards - Package Management Utilities for NuTyX-Linux**
+
+* Implementation of the New pkgmk2 script: [](https://github.com/NuTyX/cards/commit/992a2ca11bf771e0809ebe9d0987bdc1d47a8e82)
+
+New pkgmk2 script with a lot of new features:
+
+- native language
+- coloring output
+- autoupdate of the version of Pkgfile
+- added support for version control sources.
+
+BIG THANKS to peter1000 for this incredible effort on cards.
+
+---
+
 #### Julia Related
 
 ---
